@@ -9,7 +9,7 @@
           :label="t('app.name')"
           to="/"
         />
-        <AppGitHubStarButton class="mt-1.5 transition <sm:hidden" />
+        <!-- <AppGitHubStarButton class="mt-1.5 transition <sm:hidden" /> -->
       </div>
       <div class="inline-flex items-center space-x-2">
         <ButtonSecondary
