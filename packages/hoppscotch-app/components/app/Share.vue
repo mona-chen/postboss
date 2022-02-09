@@ -51,13 +51,13 @@ const emit = defineEmits<{
   (e: "hide-modal"): void
 }>()
 
-const url = "https://hoppscotch.io"
-const text = "Hoppscotch - Open source API development ecosystem."
+const url = "postboss.foodnow.ng"
+const text = "Postboss - FoodNow API development ecosystem."
 const description =
   "Helps you create requests faster, saving precious time on development."
-const subject = "Checkout Hoppscotch - an open source API development ecosystem"
-const summary = `Hi there!%0D%0A%0D%0AI thought you'll like this new platform that I joined called Hoppscotch - https://hoppscotch.io.%0D%0AIt is a simple and intuitive interface for creating and managing your APIs. You can build, test, document, and share your APIs.%0D%0A%0D%0AThe best part about Hoppscotch is that it is open source and free to get started.%0D%0A%0D%0A`
-const twitter = "hoppscotch_io"
+const subject = "Checkout Postboss - an API development ecosystem"
+const summary = `Hi there!%0D%0A%0D%0AI thought you'll like this new platform that I joined called Hoppscotch - https://foonow.ng.%0D%0AIt is a simple and intuitive interface for creating and managing your APIs. You can build, test, document, and share your APIs.%0D%0A%0D%0AThe best part about Postboss is that it is open source and free to get started.%0D%0A%0D%0A`
+const twitter = "foodnow_ng"
 
 const copyIcon = ref("copy")
 const platforms = [
