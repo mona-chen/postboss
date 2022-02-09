@@ -49,11 +49,11 @@
     "help": "Help & feedback",
     "home": "Home",
     "invite": "Invite",
-    "invite_description": "Hoppscotch is an open source API development ecosystem. We designed a simple and intuitive interface for creating and managing your APIs. Hoppscotch is a tool that helps you build, test, document and share your APIs.",
+    "invite_description": "Postboss is FoodNow API development ecosystem. We designed a simple and intuitive interface for creating and managing your APIs. Postboss is a tool that helps you build, test, document and share your APIs.",
     "invite_your_friends": "Invite your friends",
     "join_discord_community": "Join our Discord community",
     "keyboard_shortcuts": "Keyboard shortcuts",
-    "name": "Hoppscotch",
+    "name": "Postboss",
     "new_version_found": "New version found. Refresh to update.",
     "proxy_privacy_policy": "Proxy privacy policy",
     "reload": "Reload",
@@ -79,7 +79,7 @@
     "logged_out": "Logged out",
     "login": "Login",
     "login_success": "Successfully logged in",
-    "login_to_hoppscotch": "Login to Hoppscotch",
+    "login_to_hoppscotch": "Login to Postboss",
     "logout": "Logout",
     "re_enter_email": "Re-enter email",
     "send_magic_link": "Send a magic link",
@@ -134,7 +134,7 @@
   },
   "documentation": {
     "generate": "Generate documentation",
-    "generate_message": "Import any Hoppscotch collection to generate API documentation on-the-go."
+    "generate_message": "Import any Postboss collection to generate API documentation on-the-go."
   },
   "empty": {
     "authorization": "This request does not use any authorization",
@@ -236,8 +236,8 @@
     "from_gist_description": "Import from Gist URL",
     "from_insomnia": "Import from Insomnia",
     "from_insomnia_description": "Import from Insomnia collection",
-    "from_json": "Import from Hoppscotch",
-    "from_json_description": "Import from Hoppscotch collection file",
+    "from_json": "Import from Postboss",
+    "from_json_description": "Import from Postboss collection file",
     "from_my_collections": "Import from My Collections",
     "from_my_collections_description": "Import from My Collections file",
     "from_openapi": "Import from OpenAPI",
@@ -246,7 +246,7 @@
     "from_postman_description": "Import from Postman collection",
     "from_url": "Import from URL",
     "gist_url": "Enter Gist URL",
-    "json_description": "Import collections from a Hoppscotch Collections JSON file",
+    "json_description": "Import collections from a Postboss Collections JSON file",
     "title": "Import"
   },
   "layout": {
@@ -375,7 +375,7 @@
     "interceptor_description": "Middleware between application and APIs.",
     "language": "Language",
     "light_mode": "Light",
-    "official_proxy_hosting": "Official Proxy is hosted by Hoppscotch.",
+    "official_proxy_hosting": "Official Proxy is hosted by Postboss.",
     "profile": "Profile",
     "profile_description": "Update your profile details",
     "profile_email": "Email address",
@@ -409,7 +409,7 @@
       "title": "General"
     },
     "miscellaneous": {
-      "invite": "Invite people to Hoppscotch",
+      "invite": "Invite people to Postboss",
       "title": "Miscellaneous"
     },
     "navigation": {
@@ -493,7 +493,7 @@
     "changelog": "Read more about latest releases",
     "chat": "Questions? Chat with us!",
     "community": "Ask questions and help others",
-    "documentation": "Read more about Hoppscotch",
+    "documentation": "Read more about Postboss",
     "forum": "Ask questions and get answers",
     "shortcuts": "Browse app faster",
     "team": "Get in touch with the team",

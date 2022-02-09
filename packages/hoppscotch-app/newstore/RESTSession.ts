@@ -26,7 +26,7 @@ type RESTSession = {
 
 export const getDefaultRESTRequest = (): HoppRESTRequest => ({
   v: RESTReqSchemaVersion,
-  endpoint: "https://echo.hoppscotch.io",
+  endpoint: "https://foodnow.ng/api/v1",
   name: "Untitled request",
   params: [],
   headers: [],

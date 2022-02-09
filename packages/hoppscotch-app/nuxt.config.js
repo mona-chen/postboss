@@ -5,12 +5,12 @@ require("dotenv").config()
 
 // Common options
 export const options = {
-  name: "Hoppscotch",
-  shortDescription: "Open source API development ecosystem",
+  name: "Postboss",
+  shortDescription: "FoodNow API development ecosystem",
   description:
     "Helps you create requests faster, saving precious time on development.",
   keywords:
-    "hoppscotch, hopp scotch, hoppscotch online, hoppscotch app, postwoman, postwoman chrome, postwoman online, postwoman for mac, postwoman app, postwoman for windows, postwoman google chrome, postwoman chrome app, get postwoman, postwoman web, postwoman android, postwoman app for chrome, postwoman mobile app, postwoman web app, api, request, testing, tool, rest, websocket, sse, graphql, socketio",
+    "foodnow, hopp scotch, foodnow online, foodnow app, postwoman, postwoman chrome, postwoman online, postwoman for mac, postwoman app, postwoman for windows, postwoman google chrome, postwoman chrome app, get postwoman, postwoman web, postwoman android, postwoman app for chrome, postwoman mobile app, postwoman web app, api, request, testing, tool, rest, websocket, sse, graphql, socketio",
   loading: {
     color: "var(--divider-light-color)",
     background: "var(--primary-color)",
@@ -19,7 +19,7 @@ export const options = {
     background: "#202124",
   },
   social: {
-    twitter: "@hoppscotch_io",
+    twitter: "@foodnow_ng",
   },
 }
 

@@ -12,7 +12,7 @@ type GQLSession = {
 export const defaultGQLSession: GQLSession = {
   request: makeGQLRequest({
     name: "Untitled request",
-    url: "https://echo.hoppscotch.io/graphql",
+    url: "https://foodnow.ng/graphql",
     headers: [],
     variables: `{
   "id": "1"
