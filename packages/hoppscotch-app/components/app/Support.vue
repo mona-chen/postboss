@@ -10,7 +10,7 @@
         <SmartItem
           svg="book"
           :label="t('app.documentation')"
-          to="https://docs.hoppscotch.io"
+          to="https://docs.foodnow.ng"
           :description="t('support.documentation')"
           info-icon="chevron_right"
           active
@@ -28,7 +28,7 @@
         <SmartItem
           svg="gift"
           :label="t('app.whats_new')"
-          to="https://docs.hoppscotch.io/changelog"
+          to="https://docs.foodnow.ng/changelog"
           :description="t('support.changelog')"
           info-icon="chevron_right"
           active

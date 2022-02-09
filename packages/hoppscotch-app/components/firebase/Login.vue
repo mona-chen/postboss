@@ -74,14 +74,14 @@
         By signing in, you are agreeing to our
         <SmartAnchor
           class="link"
-          to="https://docs.hoppscotch.io/terms"
+          to="https://docs.foodnow.ng/terms"
           blank
           label="Terms of Service"
         />
         and
         <SmartAnchor
           class="link"
-          to="https://docs.hoppscotch.io/privacy"
+          to="https://docs.foodnow.ng/privacy"
           blank
           label="Privacy Policy"
         />.

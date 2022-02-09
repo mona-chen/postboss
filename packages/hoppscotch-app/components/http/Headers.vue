@@ -9,7 +9,7 @@
       <div class="flex">
         <ButtonSecondary
           v-tippy="{ theme: 'tooltip' }"
-          to="https://docs.hoppscotch.io/features/headers"
+          to="https://docs.foodnow.ng/features/headers"
           blank
           :title="t('app.wiki')"
           svg="help-circle"

@@ -154,7 +154,7 @@ _Collections are synced with cloud / local session storage_
 - Access APIs served in non-HTTPS (`http://`) endpoints
 - Use your Proxy URL
 
-_Official proxy server is hosted by Hoppscotch - **[GitHub](https://github.com/hoppscotch/proxyscotch)** - **[Privacy Policy](https://docs.hoppscotch.io/privacy)**_
+_Official proxy server is hosted by Hoppscotch - **[GitHub](https://github.com/hoppscotch/proxyscotch)** - **[Privacy Policy](https://docs.foodnow.ng/privacy)**_
 
 📜 **Pre-Request Scripts β:** Snippets of code associated with a request that is executed before the request is sent.
 
@@ -171,7 +171,7 @@ _Official proxy server is hosted by Hoppscotch - **[GitHub](https://github.com/h
 
 ⌨️ **Keyboard Shortcuts:** Optimized for efficiency.
 
-> **[Read our documentation on Keyboard Shortcuts](https://docs.hoppscotch.io/features/shortcuts)**
+> **[Read our documentation on Keyboard Shortcuts](https://docs.foodnow.ng/features/shortcuts)**
 
 🌎 **i18n:** Experience the app in your language.
 
@@ -247,7 +247,7 @@ _Add-ons are developed and maintained under **[Hoppscotch Organization](https://
 - Keys and values are separated by `:`
 - Prepend `//` to any row you want to add but keep disabled
 
-**For more features, please read our [documentation](https://docs.hoppscotch.io).**
+**For more features, please read our [documentation](https://docs.foodnow.ng).**
 
 ## **Demo**
 

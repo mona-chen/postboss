@@ -100,7 +100,7 @@
       <ButtonSecondary
         outline
         :label="`${t('action.learn_more')}`"
-        to="https://docs.hoppscotch.io/features/tests"
+        to="https://docs.foodnow.ng/features/tests"
         blank
         svg="external-link"
         reverse

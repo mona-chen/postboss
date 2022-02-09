@@ -9,7 +9,7 @@
       <div class="flex">
         <ButtonSecondary
           v-tippy="{ theme: 'tooltip' }"
-          to="https://docs.hoppscotch.io/features/tests"
+          to="https://docs.foodnow.ng/features/tests"
           blank
           :title="t('app.wiki')"
           svg="help-circle"
@@ -41,7 +41,7 @@
         </div>
         <SmartAnchor
           :label="`${t('test.learn')}`"
-          to="https://docs.hoppscotch.io/features/tests"
+          to="https://docs.foodnow.ng/features/tests"
           blank
         />
         <h4 class="pt-6 font-bold text-secondaryLight">

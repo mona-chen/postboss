@@ -68,7 +68,7 @@
               ref="documentation"
               svg="book"
               :label="`${t('app.documentation')}`"
-              to="https://docs.hoppscotch.io"
+              to="https://docs.foodnow.ng"
               blank
               :shortcut="['D']"
               @click.native="options.tippy().hide()"
@@ -100,7 +100,7 @@
             <SmartItem
               svg="gift"
               :label="`${t('app.whats_new')}`"
-              to="https://docs.hoppscotch.io/changelog"
+              to="https://docs.foodnow.ng/changelog"
               blank
               @click.native="options.tippy().hide()"
             />
@@ -139,7 +139,7 @@
             <SmartItem
               svg="lock"
               :label="`${t('app.terms_and_privacy')}`"
-              to="https://docs.hoppscotch.io/privacy"
+              to="https://docs.foodnow.ng/privacy"
               blank
               @click.native="options.tippy().hide()"
             />

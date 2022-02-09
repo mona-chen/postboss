@@ -70,7 +70,7 @@
       <ButtonSecondary
         outline
         :label="`${$t('app.documentation')}`"
-        to="https://docs.hoppscotch.io/features/body"
+        to="https://docs.foodnow.ng/features/body"
         blank
         svg="external-link"
         reverse

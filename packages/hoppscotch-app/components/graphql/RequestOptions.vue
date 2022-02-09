@@ -37,7 +37,7 @@
             />
             <ButtonSecondary
               v-tippy="{ theme: 'tooltip' }"
-              to="https://docs.hoppscotch.io/graphql"
+              to="https://docs.foodnow.ng/graphql"
               blank
               :title="t('app.wiki')"
               svg="help-circle"
@@ -79,7 +79,7 @@
           <div class="flex">
             <ButtonSecondary
               v-tippy="{ theme: 'tooltip' }"
-              to="https://docs.hoppscotch.io/graphql"
+              to="https://docs.foodnow.ng/graphql"
               blank
               :title="t('app.wiki')"
               svg="help-circle"
@@ -122,7 +122,7 @@
           <div class="flex">
             <ButtonSecondary
               v-tippy="{ theme: 'tooltip' }"
-              to="https://docs.hoppscotch.io/graphql"
+              to="https://docs.foodnow.ng/graphql"
               blank
               :title="t('app.wiki')"
               svg="help-circle"

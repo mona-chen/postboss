@@ -115,7 +115,7 @@
         </SmartCheckbox>
         <ButtonSecondary
           v-tippy="{ theme: 'tooltip' }"
-          to="https://docs.hoppscotch.io/features/authorization"
+          to="https://docs.foodnow.ng/features/authorization"
           blank
           :title="$t('app.wiki')"
           svg="help-circle"
@@ -144,7 +144,7 @@
       <ButtonSecondary
         outline
         :label="$t('app.documentation')"
-        to="https://docs.hoppscotch.io/features/authorization"
+        to="https://docs.foodnow.ng/features/authorization"
         blank
         svg="external-link"
         reverse
@@ -265,7 +265,7 @@
         <SmartAnchor
           class="link"
           :label="`${$t('authorization.learn')} \xA0 →`"
-          to="https://docs.hoppscotch.io/features/authorization"
+          to="https://docs.foodnow.ng/features/authorization"
           blank
         />
       </div>

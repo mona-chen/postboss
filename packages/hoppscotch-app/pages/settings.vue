@@ -174,7 +174,7 @@
               }}
               <SmartLink
                 class="link"
-                to="https://docs.hoppscotch.io/privacy"
+                to="https://docs.foodnow.ng/privacy"
                 blank
               >
                 {{ t("app.proxy_privacy_policy") }} </SmartLink

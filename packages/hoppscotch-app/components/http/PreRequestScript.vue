@@ -9,7 +9,7 @@
       <div class="flex">
         <ButtonSecondary
           v-tippy="{ theme: 'tooltip' }"
-          to="https://docs.hoppscotch.io/features/pre-request-script"
+          to="https://docs.foodnow.ng/features/pre-request-script"
           blank
           :title="t('app.wiki')"
           svg="help-circle"
@@ -41,7 +41,7 @@
         </div>
         <SmartAnchor
           :label="`${t('preRequest.learn')}`"
-          to="https://docs.hoppscotch.io/features/pre-request-script"
+          to="https://docs.foodnow.ng/features/pre-request-script"
           blank
         />
         <h4 class="pt-6 font-bold text-secondaryLight">

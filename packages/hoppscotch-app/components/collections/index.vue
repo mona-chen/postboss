@@ -44,7 +44,7 @@
         <span class="flex">
           <ButtonSecondary
             v-tippy="{ theme: 'tooltip' }"
-            to="https://docs.hoppscotch.io/features/collections"
+            to="https://docs.foodnow.ng/features/collections"
             blank
             :title="$t('app.wiki')"
             svg="help-circle"
