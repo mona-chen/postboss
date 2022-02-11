@@ -1,52 +1,30 @@
 <div align="center">
-  <a href="https://hoppscotch.io">
-    <img
-      src="https://avatars.githubusercontent.com/u/56705483"
-      alt="Hoppscotch Logo"
-      height="64"
-    />
   </a>
   <br />
   <p>
     <h3>
       <b>
-        Hoppscotch
+        PostBoss
       </b>
     </h3>
   </p>
   <p>
     <b>
-      Open source API development ecosystem
+      FoodNow API development ecosystem
     </b>
   </p>
   <p>
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CODE_OF_CONDUCT.md) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhoppscotch.io&logo=hoppscotch)](https://hoppscotch.io) [![Tests](https://github.com/hoppscotch/hoppscotch/actions/workflows/tests.yml/badge.svg)](https://github.com/hoppscotch/hoppscotch/actions) [![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fhoppscotch.io%2F)](https://twitter.com/share?text=%F0%9F%91%BD%20Hoppscotch%20%E2%80%A2%20Open%20source%20API%20development%20ecosystem%20-%20Helps%20you%20create%20requests%20faster,%20saving%20precious%20time%20on%20development.&url=https://hoppscotch.io&hashtags=hoppscotch&via=hoppscotch_io)
+ 
 
   </p>
   <p>
     <sub>
-      Built with ❤︎ by
-      <a href="https://github.com/hoppscotch/hoppscotch/graphs/contributors">
-        contributors
+     
       </a>
     </sub>
   </p>
   <br />
-  <p>
-    <a href="https://hoppscotch.io">
-      <img
-        src="https://raw.githubusercontent.com/hoppscotch/hoppscotch/main/packages/hoppscotch-app/static/banner.png"
-        alt="Screenshot"
-        width="100%"
-      />
-    </a>
-  </p>
-</div>
 
-#### **Support**
-
-[![Chat on Discord](https://img.shields.io/badge/chat-Discord-7289DA?logo=discord)](https://hoppscotch.io/discord) [![Chat on Telegram](https://img.shields.io/badge/chat-Telegram-2CA5E0?logo=telegram)](https://hoppscotch.io/telegram) [![Discuss on GitHub](https://img.shields.io/badge/discussions-GitHub-333333?logo=github)](https://github.com/hoppscotch/hoppscotch/discussions)
 
 ### **Features**
 
@@ -67,7 +45,7 @@
 - `TRACE` - Performs a message loop-back test along the path to the target resource
 - `<custom>` - Some APIs use custom request methods such as `LIST`. Type in your custom methods.
 
-🌈 **Make it yours:** Customizable combinations for background, foreground, and accent colors — [customize now](https://hoppscotch.io/settings).
+🌈 **Make it yours:** Customizable combinations for background, foreground, and accent colors — [customize now](https://postboss.foodnow.ng/settings).
 
 **Theming**
 
